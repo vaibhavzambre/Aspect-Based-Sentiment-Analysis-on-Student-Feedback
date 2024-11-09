@@ -39,11 +39,6 @@ The dataset consists of student feedback on various courses, with entries contai
 2. **Train Models**: Execute cells in the notebook to train models on the preprocessed data.
 3. **Analyze Results**: Visualize sentiment distribution across different course aspects, analyze top words, and view model performance metrics.
 
-To run the notebook interactively:
-```bash
-jupyter notebook Aspect_Based_Sentiment_Analysis_on_Student_Feedback.ipynb
-
-
 ## Models Used
 The project applies several machine learning algorithms, comparing their performance:
 - **XGBoost Classifier**
@@ -81,3 +76,6 @@ The sentiment analysis provides insights into:
 - **Vaibhav Zambre**
   - Email: vaibhavzambre15@gmail.com
   - [GitHub Profile](https://github.com/vaibhavzambre)
+
+
+
