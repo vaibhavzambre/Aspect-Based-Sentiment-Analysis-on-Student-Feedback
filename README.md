@@ -12,7 +12,6 @@ This project performs Aspect-Based Sentiment Analysis (ABSA) on student feedback
 - [Results](#results)
 - [Technologies Used](#technologies-used)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Project Overview
 The objective of this project is to leverage aspect-based sentiment analysis to provide a nuanced understanding of student feedback. By analyzing sentiments across specific course aspects, insights into student satisfaction and areas needing improvement can be highlighted. This project uses a range of machine learning and natural language processing techniques for sentiment classification, word frequency analysis, and sentiment visualization.
